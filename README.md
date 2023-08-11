@@ -1,7 +1,7 @@
 ### I'm XuYuan👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyuan21)](https://github.com/anuraghazra/github-readme-stats)
-- 🎓 Graduate student of Chang 'an University in 2023.👨‍🎓
-- 🌱 I’m currently learning and working on Deep-learning, Computer Vision & PyTorch的 😋
+- 🎓 Graduate student of Chang 'an University in 2023 👨‍🎓
+- 🌱 I’m currently learning and working on Deep-learning, Computer Vision & PyTorch 😋
 - 🔭 Working on TAL as Computer Vision Engineer(primary) 😀
   
 <!--
